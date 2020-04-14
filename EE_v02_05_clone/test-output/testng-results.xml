@@ -2,34 +2,34 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="20236" started-at="2020-04-14T23:50:42 CEST" finished-at="2020-04-14T23:51:02 CEST">
+  <suite name="Suite" duration-ms="25209" started-at="2020-04-15T00:02:35 CEST" finished-at="2020-04-15T00:03:01 CEST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="20236" started-at="2020-04-14T23:50:42 CEST" finished-at="2020-04-14T23:51:02 CEST">
+    <test name="Test" duration-ms="25209" started-at="2020-04-15T00:02:35 CEST" finished-at="2020-04-15T00:03:01 CEST">
       <class name="fr.mutex.qualif.espaceemployeur.test3">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:fr.mutex.qualif.espaceemployeur.test3@6815c5f2]" name="setUp" is-config="true" duration-ms="6408" started-at="2020-04-14T23:50:55 CEST" finished-at="2020-04-14T23:51:01 CEST">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:fr.mutex.qualif.espaceemployeur.test3@6815c5f2]" name="setUp" is-config="true" duration-ms="6182" started-at="2020-04-15T00:02:53 CEST" finished-at="2020-04-15T00:02:59 CEST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="amazon2()[pri:0, instance:fr.mutex.qualif.espaceemployeur.test3@6815c5f2]" name="amazon2" duration-ms="290" started-at="2020-04-14T23:51:01 CEST" finished-at="2020-04-14T23:51:01 CEST">
+        <test-method status="PASS" signature="amazon2()[pri:0, instance:fr.mutex.qualif.espaceemployeur.test3@6815c5f2]" name="amazon2" duration-ms="307" started-at="2020-04-15T00:02:59 CEST" finished-at="2020-04-15T00:02:59 CEST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- amazon2 -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:fr.mutex.qualif.espaceemployeur.test3@6815c5f2]" name="tearDown" is-config="true" duration-ms="1151" started-at="2020-04-14T23:51:01 CEST" finished-at="2020-04-14T23:51:02 CEST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:fr.mutex.qualif.espaceemployeur.test3@6815c5f2]" name="tearDown" is-config="true" duration-ms="1078" started-at="2020-04-15T00:02:59 CEST" finished-at="2020-04-15T00:03:01 CEST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- fr.mutex.qualif.espaceemployeur.test3 -->
       <class name="fr.mutex.qualif.espaceemployeur.test2">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:fr.mutex.qualif.espaceemployeur.test2@407cf41]" name="setUp" is-config="true" duration-ms="9808" started-at="2020-04-14T23:50:42 CEST" finished-at="2020-04-14T23:50:52 CEST">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:fr.mutex.qualif.espaceemployeur.test2@407cf41]" name="setUp" is-config="true" duration-ms="9986" started-at="2020-04-15T00:02:35 CEST" finished-at="2020-04-15T00:02:45 CEST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="amazon1()[pri:0, instance:fr.mutex.qualif.espaceemployeur.test2@407cf41]" name="amazon1" duration-ms="795" started-at="2020-04-14T23:50:52 CEST" finished-at="2020-04-14T23:50:53 CEST">
+        <test-method status="PASS" signature="amazon1()[pri:0, instance:fr.mutex.qualif.espaceemployeur.test2@407cf41]" name="amazon1" duration-ms="6123" started-at="2020-04-15T00:02:46 CEST" finished-at="2020-04-15T00:02:52 CEST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- amazon1 -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:fr.mutex.qualif.espaceemployeur.test2@407cf41]" name="tearDown" is-config="true" duration-ms="1375" started-at="2020-04-14T23:50:53 CEST" finished-at="2020-04-14T23:50:55 CEST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:fr.mutex.qualif.espaceemployeur.test2@407cf41]" name="tearDown" is-config="true" duration-ms="1109" started-at="2020-04-15T00:02:52 CEST" finished-at="2020-04-15T00:02:53 CEST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

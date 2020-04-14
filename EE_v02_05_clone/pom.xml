@@ -35,6 +35,9 @@
 					<argLine>
 						-javaagent:"${settings.localRepository}/org/aspectj/aspectjweaver/${aspectj.version}/aspectjweaver-${aspectj.version}.jar"
 					</argLine>
+					<suiteXmlFiles>
+					<suiteXmlFile>$(suiteXmlFile)</suiteXmlFile>
+					</suiteXmlFiles>
 				</configuration>
 				<dependencies>
 					<dependency>
@@ -135,10 +138,6 @@
 			<artifactId>poi-ooxml-schemas</artifactId>
 			<version>3.9</version>
 		</dependency>
-
-
-
-
 
 		<dependency>
 			<groupId>com.aventstack</groupId>
