@@ -1,0 +1,16 @@
+com\mutex\selenium\testdata\SuivreVosSalariesInput.class
+com\mutex\selenium\forme\espaceemployeur\consulterVosInformations\DocumentsContractuelsPage.class
+com\mutex\selenium\forme\espaceemployeur\homePageMenu\ConsulterVosInformationsPage.class
+com\mutex\selenium\forme\espaceemployeur\homePageMenu\UtiliserVosServicesPage.class
+com\mutex\selenium\forme\espaceemployeur\suivreVosSalaries\ListeDuPersonnelCouvert.class
+com\mutex\selenium\forme\espaceemployeur\utiliserVosServices\DecouvrirVosServices.class
+com\mutex\selenium\listeners\TestAllureListener.class
+com\mutex\selenium\Base\BasePage.class
+com\mutex\selenium\util\TestUtil.class
+com\mutex\selenium\listeners\ExtentReportListener.class
+com\mutex\selenium\constants\Constants.class
+com\mutex\selenium\testdata\LoginInput.class
+com\mutex\selenium\forme\espaceemployeur\HomePage.class
+com\mutex\selenium\testdata\InfoCompte.class
+com\mutex\selenium\forme\espaceemployeur\homePageMenu\SuivreVosSalariesPage.class
+com\mutex\selenium\forme\espaceemployeur\LoginPage.class

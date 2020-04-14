@@ -22,7 +22,7 @@ import io.qameta.allure.SeverityLevel;
 import io.qameta.allure.Story;
 
 @Listeners({ TestAllureListener.class })
-public class test2 {
+public class test3 {
 
 	public BasePage basePage;
 	public WebDriver driver;
@@ -41,8 +41,8 @@ public class test2 {
 	}
 
 	@Test(retryAnalyzer = MyRetry.class)
-	@Description("ouvrir amazon")
-	public void amazon1() {
+	@Description("ouvrir amazon test 2")
+	public void amazon2() {
 
 		loginPage.amazon2("pc");
 		

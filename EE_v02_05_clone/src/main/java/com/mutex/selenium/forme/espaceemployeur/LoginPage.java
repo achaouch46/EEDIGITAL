@@ -34,6 +34,11 @@ public class LoginPage extends BasePage {
 	@FindBy(id = "cookie-check-bt")
 	WebElement cookieCheck;
 
+	@FindBy(id ="twotabsearchtextbox")
+	WebElement textv;
+	
+	@FindBy(id ="nav-search-submit-text")
+	WebElement texb;
 	//public WebDriver driver;
 
 	// 1.b: Constructor of page class and initialize elements with driver
@@ -55,6 +60,12 @@ public class LoginPage extends BasePage {
 		password.sendKeys(pwd);
 		cookieCheck.click();
 		loginButton.click();
+	}
+	
+	@Step("ouvrir amazon faire recherche...")
+	public void amazon2(String pc) {
+		textv.sendKeys(pc);
+		textv.click();
 	}
 
 }
